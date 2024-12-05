@@ -1,7 +1,7 @@
 export default {
   providers:[
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
+      domain:'https://perfect-ladybug-4.clerk.accounts.dev',
       applicationID:"convex", 
     }
   ]
